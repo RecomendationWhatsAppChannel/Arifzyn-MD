@@ -10,26 +10,26 @@ const chalk = require("chalk");
 global.lol = ""; // https://api.lolhuman.xyz
 global.xzn = ""; // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = "62895347198105"; // Owner Utama
-global.owner = ["62895347198105"]; // Owner Lainnya
+global.numberowner = "6288971908991"; // Owner Utama
+global.owner = ["6288971908991"]; // Owner Lainnya
 global.namaowner = "Arifzyn."; // Nama Owner
-global.premium = ["62895347198105"]; // Premium User
-global.nobot = "62895347198105";
+global.premium = ["6288971908991"]; // Premium User
+global.nobot = "6283138029719";
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = "Arifzyn-MD"; // NickBot
+global.namabot = "ZUMI🍀🌷"; // NickBot
 global.typemenu = "v2"; // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = "v1"; // 'v1' > 'v2'
 global.autoread = false; // ReadChat
 global.autobio = false; // AutoBio
 global.autoblok212 = true; // AutoBlock Nomer +212
 global.onlyindo = false; // AutoBlock Selain Nomer Indo
-global.packname = "Copyright © 2023"; // Watermark Sticker
-global.author = "Arifzyn."; // Watermark Sticker
+global.packname = "Sticker Ini DiBuat Oleh ZumiBot "; // Watermark Sticker
+global.author = "Link Grup ZumiBOT : https://chat.whatsapp.com/CyxGJfOds7y4WFofFgj5nR"; // Watermark Sticker
 /* ~~~~~~~~~ MESSAGES ~~~~~~~~~ */
 global.mess = {
-  done: "Done ✅",
-  prem: "Feature Only For User _*PREMIUM*_",
-  admin: "Feature Only for _*Admin Group*_",
+  done: "Berhasil!✅",
+  prem: "> Fitur Ini Hanya Untuk Premium!",
+  admin: "*There's Nothing In Here*",
   botAdmin:
     "Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin Group !",
   owner: "Feature Only for _*owner*_",
